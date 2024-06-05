@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/Algerian.spritefont","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/Algerian.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.6072441
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/GreenRect.jpg","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/GreenRect.xnb","TextureProcessor","Texture2DContent",116419,3686485,0.6969285
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/Rectangle.jpg","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/Rectangle.xnb","TextureProcessor","Texture2DContent",744083,8294485,0.8788844
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/WhiteBall.png","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/WhiteBall.xnb","TextureProcessor","Texture2DContent",202744,12285109,0.6928335

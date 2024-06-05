@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/Algerian.spritefont</File>
+    <File>C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/GreenRect.jpg</File>
+    <File>C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/Rectangle.jpg</File>
+    <File>C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/WhiteBall.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
