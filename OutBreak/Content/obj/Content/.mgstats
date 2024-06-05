@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/Algerian.spritefont","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/Content/Algerian.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.3348549
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/GreenRect.jpg","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/Content/GreenRect.xnb","TextureProcessor","Texture2DContent",116419,3686485,0.3042233
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/Orange.png","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/Content/Orange.xnb","TextureProcessor","Texture2DContent",418,4257685,0.3138911
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/Rectangle.jpg","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/Content/Rectangle.xnb","TextureProcessor","Texture2DContent",744083,8294485,0.5740615
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/WhiteBall.png","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/Content/WhiteBall.xnb","TextureProcessor","Texture2DContent",202744,12285109,0.6258894
+"C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/YellowRectangle2_3x2.webp","C:/Users/jsullivan24/source/repos/OutBreak/OutBreak/Content/bin/Windows/Content/Yellow.xnb","TextureProcessor","Texture2DContent",1126,1920085,0.322871
